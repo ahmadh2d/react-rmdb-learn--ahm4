@@ -5,7 +5,7 @@
 - npm run build
 - npm install -g netlify-cli
 - netlify deploy
-- netlify deploy -prod
+- netlify deploy --prod
 
 
 New Libs Included:
