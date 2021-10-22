@@ -1,0 +1,17 @@
+- npx create-react-app react-rmdb-learn
+- npm start
+- npm install styled-components
+- npm install react-router@next react-router-dom@next
+- npm run build
+- npm install -g netlify-cli
+- netlify deploy
+- netlify deploy -prod
+
+
+New Libs Included:
+- react-router-dom version=v6.0.0-alpha.3
+- style-components
+
+
+YouTube URL:
+https://www.youtube.com/watch?v=nTeuhbP7wdE
