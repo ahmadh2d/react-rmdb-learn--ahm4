@@ -1,7 +1,8 @@
 - npx create-react-app react-rmdb-learn
 - npm start
 - npm install styled-components
-- npm install react-router@next react-router-dom@next
+- npm install --save history
+- npm install react-router@next react-router-dom@next (first install above command -> history)
 - npm run build
 - npm install -g netlify-cli
 - netlify deploy

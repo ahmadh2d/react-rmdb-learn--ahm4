@@ -3,7 +3,7 @@ import React from "react";
 import { POSTER_SIZE, BACKDROP_SIZE, IMAGE_BASE_URL } from "../config";
 
 // Components
-import HeroImage from "../HeroImage/HeroImage";
+import HeroImage from "./HeroImage/HeroImage";
 import Grid from "./Grid/Grid.js";
 import { Spinner } from "./Spinner/Spinner.styles";
 import Thumb from "./Thumb/Thumb";
